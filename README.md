@@ -13,6 +13,8 @@ project_graduate로 접근 후 integrate_code.R 을 실행함
 
 ## Data Mining process 
 ![Screenshot](picture1.png)
+![Screenshot](picture2.png)
+![Screenshot](picture3.png)
 
 ## Author
 * [홍익대학교 산업공학과 김태훈]
